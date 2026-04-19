@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "39e996197406c3c3",
+        "id": "4699b5c0f3aabff8",
         "type": "tabs",
         "children": [
           {
-            "id": "8e70338dc200ee6e",
+            "id": "635ea5850dda84a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -74,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian操作指南/Z1、更安全更自由的同步-SelfHostedLiveSync.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "Z1、更安全更自由的同步-SelfHostedLiveSync 的大纲"
             }
           }
         ],
@@ -170,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,32 +187,31 @@
       "obsidian-livesync:Show Log": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false,
-      "obsidian-livesync:显示自定义同步": false,
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "8e70338dc200ee6e",
+  "active": "3f6d0b87cf29bdd8",
   "lastOpenFiles": [
-    "未命名.base",
-    "README.md",
-    "未命名.md",
-    "金融/20260419 经济观察.md",
-    "AI与Obsidian/6、更适合自己的Obsidian.md",
-    "Obsidian操作指南/Z1、更安全更自由的同步-SelfHostedLiveSync.md",
     "Obsidian操作指南/Z0、文本文档也能画图-Excalidraw.md",
     "Obsidian操作指南/7、不止obsidian-丰富的导出与分享.md",
     "Obsidian操作指南/6、学会搜索-健忘的最好帮手.md",
     "Obsidian操作指南/5、用好obsidian中的链接.md",
     "Obsidian操作指南/4、如何提高编辑效率.md",
-    "AI与Obsidian/5、如何通过自己的笔记向AI提问.md",
-    "AI与Obsidian/4、如何迁移旧笔记.md",
-    "AI与Obsidian/2、AI怎么与obsidian结合.md",
     "Obsidian操作指南/2、Obsidian操作指南.md",
-    "AI与Obsidian/3、图片转markdown.md",
-    "操作指南/3、什么是LaTeX.md",
-    "AI与Obsidian/1、如何问AI.md",
-    "obsidian帮助.md",
     "Obsidian操作指南/1、什么是Markdown.md",
+    "AI与Obsidian/5、如何通过自己的笔记向AI提问.md",
+    "AI与Obsidian/6、更适合自己的Obsidian.md",
+    "AI与Obsidian/4、如何迁移旧笔记.md",
+    "AI与Obsidian/3、图片转markdown.md",
+    "AI与Obsidian/2、AI怎么与obsidian结合.md",
+    "AI与Obsidian/1、如何问AI.md",
+    "README.md",
+    "未命名.base",
+    "未命名.md",
+    "金融/20260419 经济观察.md",
+    "Obsidian操作指南/Z1、更安全更自由的同步-SelfHostedLiveSync.md",
+    "操作指南/3、什么是LaTeX.md",
+    "obsidian帮助.md",
     "AI与Obsidian",
     "test00/test01.md",
     "Obsidian操作指南",
